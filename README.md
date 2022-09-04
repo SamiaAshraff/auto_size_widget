@@ -8,7 +8,7 @@ A Flutter widget that can resize the child widget by dragging the widget corner.
 1. Add the latest version of the package to your pubspec.yaml (and run 'dart pub get'):
 ```yaml
 dependencies:
-    auto_size_widget: ^0.0.1
+    auto_size_widget: ^0.0.3
 ```
 2. Import the package and use it in your Flutter app.
 ```dart
