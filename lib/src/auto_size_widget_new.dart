@@ -101,8 +101,8 @@ class _AutoSizeWidgetState extends State<AutoSizeWidget> {
             right: 0,
             child: ManipulatingBall(
               icon: widget.showIcon
-                  ? Image.asset(
-                      'assets/marking.png',
+                  ? Image.network(
+                      'https://raw.githubusercontent.com/SamiaAshraff/auto_size_widget/main/marking.png',
                       height: 16,
                       width: 16,
                     )
