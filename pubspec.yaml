@@ -1,0 +1,24 @@
+name: auto_size_widget
+description: A Flutter widget that can resize the child widget by dragging the
+  widget corner.
+version: 0.0.1
+homepage: https://github.com/SamiaAshraff/auto_size_widget
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter: null
+
+# To add assets to your package, add an assets section, like this:
+assets:
+  - assets/marking.png
