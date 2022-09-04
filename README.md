@@ -1,6 +1,7 @@
 # Auto Size Widget
 A Flutter widget that can resize the child widget by dragging the widget corner.
 
+<img src="https://github.com/SamiaAshraff/auto_size_widget/blob/main/auto_size_widget.gif">
 
 ## Installation
 
